@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace StudentExercise6
+namespace StudentExercise5_WebAPI
 {
     public class Program
     {
