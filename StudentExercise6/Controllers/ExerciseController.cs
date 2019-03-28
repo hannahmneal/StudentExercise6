@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using StudentExercise5_WebAPI.Models;
+using StudentExercise6.Models;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 
-namespace StudentExercise5_WebAPI.Controllers
+namespace StudentExercise6.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

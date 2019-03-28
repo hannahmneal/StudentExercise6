@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using StudentExercise5_WebAPI.Models;
+using StudentExercise6.Models;
 
 
-namespace StudentExercise5_WebAPI.Models
+namespace StudentExercise6.Models
 {
     public class Exercise
     {
