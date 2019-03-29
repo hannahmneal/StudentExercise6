@@ -17,10 +17,10 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "StudentExercise5_WebAPI": {
+    "StudentExercise6": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/student",
+      "launchUrl": "api/students",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
